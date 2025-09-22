@@ -1,0 +1,6 @@
+# Ignore everything except models and macros
+target/
+dbt_packages/
+logs/
+.env
+dbt_internal_packages/
